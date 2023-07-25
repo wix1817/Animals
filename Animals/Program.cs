@@ -1,6 +1,4 @@
-﻿
-
-using Animals;
+﻿using Animals;
 
 Console.Write("Input dog name: "); 
 var name = Console.ReadLine();
